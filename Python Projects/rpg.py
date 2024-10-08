@@ -1,4 +1,4 @@
-from test3 import *
+from rpg_class import *
 
 shop = [
 Consommables("Health Flask", 25, 20),
